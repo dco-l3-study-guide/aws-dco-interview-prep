@@ -12,7 +12,7 @@ Welcome to the **AWS Data Center Operations (DCO) Interview Preparation Guide**.
 
 ## 📌 Guide Overview
 
-The AWS DCO interview evaluation is typically divided into two core areas:
+The AWS DCO interview evaluation is typically divided into two core areas: 
 * **Behavioral & Leadership Principles (~70–80%):** Evaluates culture fit, safety prioritization, customer focus, operational maturity, and STAR storytelling.
 * **Technical Concepts & Logical Troubleshooting (~20–30%):** Evaluates server architecture, hardware isolation, fiber optics, networking layers (L1–L3), and structured problem-solving under pressure.
 
