@@ -4,7 +4,7 @@
 
 ---
 
-## ⚡ Server Won't Power On / No POST
+## ⚡ Server Won't Power On / No POST 
 
 This flow walks through systematic isolation for a server experiencing power failure or POST halt.
 
