@@ -23,22 +23,33 @@ The AWS DCO interview evaluation is typically divided into two core areas:
 Click any module below to dive deep into specific study materials:
 
 ### 🧠 1. [Leadership Principles & STAR Story Framework](leadership-principles.md)
-* Breakdown of core Leadership Principles prioritized for DCO (Customer Obsession, Ownership, Earn Trust, Dive Deep, Insist on Highest Standards, Bias for Action).
+* Breakdown of core Leadership Principles prioritized for AWS DCO roles.
 * Strategic STAR method timing guidelines (Situation, Task, Action, Result).
-* Interviewer follow-up probe prep and story-mapping matrix.
-* Printable STAR story drafting template.
+* Printable STAR story drafting template and follow-up question prep.
 
-### 🛠️ 2. [Technical Deep-Dive & Hardware Cheat Sheet](technical-cheatsheet.md)
-* **Networking:** OSI Model (Layers 1–3), TCP vs. UDP, DHCP (DORA process), DNS.
-* **Server Hardware:** POST boot sequence, BMC/IPMI out-of-band management, ECC RAM, slot-vs-stick troubleshooting.
-* **Storage & RAID:** HDD vs. SATA/SAS SSD vs. NVMe, RAID 0, 1, 5, 6, and 10 breakdown.
-* **Fiber Optics:** Single-Mode (SMF) vs. Multi-Mode (MMF), LC/MPO connectors, transceivers (SFP, QSFP, OSFP), VFL lasers, and optical light meters.
-* **Linux CLI:** Essential network (`ip`, `ping`, `traceroute`, `dig`) and hardware (`lsblk`, `lspci`, `dmesg`, `journalctl`) diagnostic commands.
+### 🎯 2. [LP & STAR Story Master Matrix](lp-star-bank.md)
+* Real-world DCO behavioral story blueprints for core AWS Leadership Principles.
+* Two-Way Door vs. One-Way Door decision-making framework.
+* Quick-reference matrix mapping past experience to LPs and technical metrics.
 
-### 🔀 3. [Advanced Troubleshooting Methodology & Flowcharts](troubleshooting-flowcharts.md)
-* **Visual Flowcharts (Mermaid.js):** Step-by-step logic for *Server Won't Power On / No POST* and *Network Link Down / Packet Loss*.
-* **Physical Isolation:** Minimum configuration testing ("bench testing") and fiber endface inspection/cleaning routines.
-* **The 90-Second Response Standard:** Framework for answering technical scenario questions concisely during interview loops.
+### 🛠️ 3. [Technical Deep-Dive & Hardware Cheat Sheet](technical-cheatsheet.md)
+* **Networking & Hardware:** OSI Model (L1–L3), POST boot sequence, and ECC RAM slot-vs-stick isolation.
+* **Storage & Fiber:** RAID configurations, NVMe SSDs, and Single-Mode vs. Multi-Mode fiber optics.
+* **Linux CLI:** Key network (`ip`, `ping`, `ethtool`) and system diagnostic commands (`dmesg`, `lsblk`, `lspci`).
+
+### 🔀 4. [Troubleshooting Methodology & Flowcharts](troubleshooting-flowcharts.md)
+* Visual Mermaid flowcharts for *No POST / Power Failures* and *Network Link Drops*.
+* Step-by-step physical isolation techniques and fiber ferrule cleaning routines.
+* The 90-second response standard for verbal technical interview questions.
+
+### 📖 5. [Data Center Hardware & Networking Glossary](hardware-and-networking-glossary.md)
+* Essential definitions for server components (BMC, IPMI, ECC, POST).
+* Fast-recall reference for fiber connectors, transceiver types (SFP, QSFP), and VFL testing.
+
+### 📋 6. [Interview Day Execution Checklist](interview-day-checklist.md)
+* Day-before prep checklist covering STAR story metrics and technical frameworks.
+* Morning-of environment, audio, and mindset checks before your loop.
+* Key rules for live interview execution (ESD first, single-variable testing).
 
 ---
 
